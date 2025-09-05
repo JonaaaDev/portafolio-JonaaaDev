@@ -17,7 +17,7 @@ function App() {
         <WheelOfFortune />
       </main>
 
-      <footer className="mt-12 text-center text-slate-500 z-10">
+      <footer className="mt-12 text-center text-slate-500">
         <div className="flex justify-center items-center space-x-4 mb-4">
           <a href="https://github.com/JonaaaDev/portafolio-JonaaaDev" target="_blank" rel="noopener noreferrer" className="flex items-center text-slate-500 hover:text-white transition-colors duration-300 group">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="w-6 h-6" aria-hidden="true">
